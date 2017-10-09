@@ -9,9 +9,8 @@
   "author": "Thoughtworks",
   "license": "ISC",
   "dependencies": {
+    "mocha": "^4.0.1",
     "selenium-webdriver": "^3.6.0"
   },
-  "devDependencies": {
-    "mocha": "^4.0.1"
-  }
+  "devDependencies": {}
 }
